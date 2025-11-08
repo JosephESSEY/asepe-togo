@@ -1,7 +1,7 @@
 asgiref==3.5.2
 certifi==2022.6.15
 charset-normalizer==2.1.1
-Django==4.1
+Django==4.2.26
 django-froala-editor==4.0.13
 django-requests==0.0.2
 django-rest-framework==0.1.0
